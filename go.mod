@@ -1,3 +1,3 @@
-module github.com/mijgona/bank
+module github.com/mijgona/bank/v2
 
 go 1.16
